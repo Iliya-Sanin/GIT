@@ -11,7 +11,7 @@ Some git practice below.
 - delete a branch
 
 iliya.sanin@Iliyas-MBP git % git clone git@github.com:Iliya-Sanin/git.git
-iliya.sanin@Iliyas-MBP git % cd git
+<p> iliya.sanin@Iliyas-MBP git % cd git
 iliya.sanin@Iliyas-MBP git % ls
 README.md
 
