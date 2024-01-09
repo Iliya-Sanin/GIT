@@ -12,15 +12,15 @@ Some git practice below.
 
 iliya.sanin@Iliyas-MBP git % git clone git@github.com:Iliya-Sanin/git.git
 <p> iliya.sanin@Iliyas-MBP git % cd git
-iliya.sanin@Iliyas-MBP git % ls
-README.md
+<p> iliya.sanin@Iliyas-MBP git % ls
+<p> README.md
 
-iliya.sanin@Iliyas-MBP git % git branch
-* main
-iliya.sanin@Iliyas-MBP git % git branch my_project
-iliya.sanin@Iliyas-MBP git % git branch
-* main
-  my_project
+<p> iliya.sanin@Iliyas-MBP git % git branch
+<p> * main
+<p> iliya.sanin@Iliyas-MBP git % git branch my_project
+<p> iliya.sanin@Iliyas-MBP git % git branch
+<p> * main
+<p>   my_project
 
 iliya.sanin@Iliyas-MBP git % git checkout my_project
 iliya.sanin@Iliyas-MBP git % echo Text for my file > my_file.txt 
