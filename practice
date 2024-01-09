@@ -50,3 +50,4 @@ iliya.sanin@Iliyas-MBP git % git clone git@github.com:Iliya-Sanin/git.git
 <p>   my_project
 <p> iliya.sanin@Iliyas-MBP git % git branch -d my_project
 <p> Deleted branch my_project 
+<p> iliya.sanin@Iliyas-MBP git % git fetch
